@@ -4,3 +4,10 @@ scikit-learn
 joblib
 streamlit
 ydata-profiling
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+seaborn
