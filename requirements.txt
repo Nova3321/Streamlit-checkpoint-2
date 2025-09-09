@@ -1,9 +1,3 @@
-pandas
-numpy
-scikit-learn
-joblib
-streamlit
-ydata-profiling
 streamlit
 pandas
 numpy
